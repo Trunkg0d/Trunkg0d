@@ -25,7 +25,7 @@
 - ✨ Gaming Addict
 - ✨ Watching Anime
 - ✨ Reading Light Novels
-- ✨ Badminton (Neighbourhood Professional XD)
+- ✨ Basketball (uwu)
 
 </br>
 </br>
