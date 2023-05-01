@@ -88,7 +88,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
 <p align="center" >  
   <a href="https://github.com/Trunkg0d/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=Trunkg0d&&show_icons=true&theme=radical"/>
+<img  src="https://github-readme-stats-sigma-five.vercel.app/api?username=Trunkg0d&&show_icons=true&theme=radical"/>
   </a>
   </p>
 
