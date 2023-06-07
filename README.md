@@ -20,9 +20,12 @@
 - ✨ OOP
 - ✨ MySQL
 - ✨ Ruby on Rails
+- ✨ Data Science
+- ✨ Graph Neural Network
+- ✨ Artificial Intelligence
 
 ### - Hobbies : 
-- ✨ Gaming Addict
+- ✨ Gaming Addict (Valorant, LoL, ...)
 - ✨ Watching Anime
 - ✨ Reading Light Novels
 - ✨ Basketball (uwu)
