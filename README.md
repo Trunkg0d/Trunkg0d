@@ -70,7 +70,8 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 <a href="mailto:trungsanglong@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
 </a>
-<a href="https://www.linkedin.com/in/trung-le-pham-hoang-5b23bb229/">
+<a href="
+https://www.linkedin.com/in/trung-l%C3%AA-ph%E1%BA%A1m-ho%C3%A0ng-5b23bb229/">
   <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
 </br>
 </br>
