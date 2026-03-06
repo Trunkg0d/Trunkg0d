@@ -11,24 +11,20 @@
 
 # About ME 💬 :
 
-### - I'm 23 years old Backend Developer and Artificial Intelligence from VietNam.
+### - I'm 23 years old Backend Developer and AI Researcher from VietNam.
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
 ### - Learning :
-- ✨ Data Structures & Algorithms
-- ✨ OOP
-- ✨ MySQL
-- ✨ Ruby on Rails
+- ✨ Data Structures & Algorithms, Database
+- ✨ Ruby on Rails, Django
 - ✨ Data Science
-- ✨ Graph Neural Network
 - ✨ Artificial Intelligence
 
 ### - Hobbies : 
 - ✨ Gaming Addict (Valorant, LoL, ...)
 - ✨ Watching Anime
-- ✨ Reading Light Novels
-- ✨ Basketball (uwu)
+- ✨ Basketball, Badminton
 
 </br>
 </br>
@@ -97,3 +93,4 @@ https://www.linkedin.com/in/trung-l%C3%AA-ph%E1%BA%A1m-ho%C3%A0ng-5b23bb229/">
   </p>
 
 *************
+
